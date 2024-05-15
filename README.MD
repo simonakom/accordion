@@ -1,4 +1,4 @@
-# <span><img src="./ui-ux.png" alt=accordion style="height: 1em; vertical-align: middle;"></span> Collapsible content (accordion)
+# <span><img src="./ui-ux.png" alt=accordion style="height: 1em;"></span> Collapsible content (accordion)
 
 This responsive app is about practicing an accordion (collapsible content) using javascript, bootstrap, css.
 
