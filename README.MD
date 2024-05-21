@@ -4,3 +4,4 @@ This responsive app is about practicing an accordion (collapsible content) using
 
 <h4>🔹 Accordion sample - <a href="https://simonakom.github.io/accordion/index.html" style="font-size:small;">View</a><h4>
 
+
